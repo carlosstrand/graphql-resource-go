@@ -1,3 +1,7 @@
+[![Documentation](https://godoc.org/github.com/carlosstrand/graphql-resource-go?status.svg)](http://godoc.org/github.com/carlosstrand/graphql-resource-go)
+[![Actions Status](https://github.com/carlosstrand/graphql-resource-go/workflows/Go/badge.svg)](https://github.com/carlosstrand/graphql-resource-go/actions)
+[![Coverage Status](https://coveralls.io/repos/github/carlosstrand/graphql-resource-go/badge.svg?branch=master)](https://coveralls.io/github/carlosstrand/graphql-resource-go?branch=master)
+
 # graphql-resource-go
 
 Easily create CRUDs using graphql-go
